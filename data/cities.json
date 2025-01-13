@@ -25,76 +25,64 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Chennai",
-      "country": "India",
-      "emoji": "IN",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 13.0843,
-        "lng": 80.2705
-      },
-      "id": 98443112
-    },
-    {
-      "cityName": "Bangalore",
-      "country": "India",
-      "emoji": "IN",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 12.9716,
-        "lng": 77.5946
-      },
-      "id": 98443587
-    },
-    {
-      "cityName": "Iritty",
-      "country": "India",
-      "date": "2025-01-13T01:40:30.867Z",
-      "notes": "some good place",
-      "emoji": "🇮🇳",
-      "position": {
-        "lat": "11.974844752931832",
-        "lng": "75.684814453125"
-      },
-      "id": 98443588
-    },
-    {
-      "cityName": "Nagqu",
+      "cityName": "Ngari Diqu",
       "country": "China",
-      "date": "2025-01-13T01:40:56.265Z",
-      "notes": "random",
+      "date": "2025-01-13T02:44:35.308Z",
+      "notes": "",
       "emoji": "🇨🇳",
       "position": {
-        "lat": "32.47269502206151",
-        "lng": "85.42968750000001"
+        "lat": "33.97980872872457",
+        "lng": "85.27587890625001"
       },
-      "id": 98443589
+      "id": 73930386
     },
     {
-      "cityName": "Aktogay",
+      "cityName": "Yerbogachen",
+      "country": "Russian Federation (the)",
+      "date": "2025-01-13T02:44:41.703Z",
+      "notes": "",
+      "emoji": "🇷🇺",
+      "position": {
+        "lat": "60.58696734225869",
+        "lng": "107.92968750000001"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Amangeldi",
       "country": "Kazakhstan",
-      "date": "2025-01-13T01:42:26.019Z",
-      "notes": "random",
+      "date": "2025-01-13T02:44:45.643Z",
+      "notes": "",
       "emoji": "🇰🇿",
       "position": {
-        "lat": "48.80686346108519",
-        "lng": "75.05859375000001"
+        "lat": "49.15296965617042",
+        "lng": "65.03906250000001"
       },
-      "id": 98443590
+      "id": 73930388
+    },
+    {
+      "cityName": "Markaz al Waḩat ad Dakhilah",
+      "country": "Egypt",
+      "date": "2025-01-13T02:44:49.540Z",
+      "notes": "",
+      "emoji": "🇪🇬",
+      "position": {
+        "lat": "25.16517336866393",
+        "lng": "29.179687500000004"
+      },
+      "id": 73930389
+    },
+    {
+      "cityName": "Yahuma",
+      "country": "Congo (the Democratic Republic of the)",
+      "date": "2025-01-13T02:44:52.637Z",
+      "notes": "",
+      "emoji": "🇨🇩",
+      "position": {
+        "lat": "0.7031073524364909",
+        "lng": "22.851562500000004"
+      },
+      "id": 73930390
     }
   ]
 }
