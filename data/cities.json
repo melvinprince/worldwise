@@ -49,18 +49,6 @@
       "id": 73930387
     },
     {
-      "cityName": "Amangeldi",
-      "country": "Kazakhstan",
-      "date": "2025-01-13T02:44:45.643Z",
-      "notes": "",
-      "emoji": "🇰🇿",
-      "position": {
-        "lat": "49.15296965617042",
-        "lng": "65.03906250000001"
-      },
-      "id": 73930388
-    },
-    {
       "cityName": "Markaz al Waḩat ad Dakhilah",
       "country": "Egypt",
       "date": "2025-01-13T02:44:49.540Z",
@@ -71,18 +59,6 @@
         "lng": "29.179687500000004"
       },
       "id": 73930389
-    },
-    {
-      "cityName": "Yahuma",
-      "country": "Congo (the Democratic Republic of the)",
-      "date": "2025-01-13T02:44:52.637Z",
-      "notes": "",
-      "emoji": "🇨🇩",
-      "position": {
-        "lat": "0.7031073524364909",
-        "lng": "22.851562500000004"
-      },
-      "id": 73930390
     }
   ]
 }
